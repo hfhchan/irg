@@ -11,5 +11,6 @@ Repository for hosting various issues and documents related to the CJK Unified I
 # Other Documents
 - Digitization of Historical Text (in progress)
 - Basic Traditional Chinese Subset (in progress)
+- Annotation of Easily Confused CJK Unified Ideographs (in progress)
 - CJK Unified Supplementary Components A (future)
 - Additional UCV Rules (future)
