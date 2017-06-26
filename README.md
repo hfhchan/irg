@@ -9,5 +9,7 @@ Repository for hosting various issues and documents related to the CJK Unified I
 - Glyph mismatches between the default operating system font and the ISO 10646
 
 # Other Documents
-- Digitization of Historical Text
-- Basic Traditional Chinese Subset
+- Digitization of Historical Text (in progress)
+- Basic Traditional Chinese Subset (in progress)
+- CJK Unified Supplementary Components A (future)
+- Additional UCV Rules (future)
