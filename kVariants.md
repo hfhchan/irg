@@ -3,33 +3,41 @@
 was collected by looking up dictionary sources quoted by the Unihan Database.
 
 # Format
-The file is split into three columns:
-1- Source Ideograph
-2- Classification
-3- Destination Ideograph
+The file is split into three columns:  
+1. Source Ideograph  
+2. Classification  
+3. Destination Ideograph
 
 There are five classifications, `wrong!`, `wrong`, `simp`, `old` and `=`.
-- wrong!  
-  Variants which are readily identified as incorrect forms of the destination character.
+- `wrong!`  
+  Variants which are identified by their source dictionaries as incorrect
+  forms of the destination character. Some dictionaries may refer to common
+  systematic variants as errorenous forms; those variants are grouped into the
+  `wrong` classification.
 
-- wrong  
-  Includes characters which are systematic corruptions of another, characters with
-  less than minor structural differences, stricter transliterations of characters
-  where the conventional transliteration is fused into a single component, etc.
+- `wrong`  
+  Includes characters which one of the following:
+  - systematic corruptions or variations of another character 
+  - characters with non-unifiable structural differences, such as stretching of
+    top 艹  
+  - strict per-component transliterations of characters where the conventional
+    transliteration is a single fused component
+  - characters with alternate positional forms (艸 vs 艹)
 
-- simp  
-  The source ideograph is a simplified variant of the destination ideograph.  
-  Simplification may be an official simplification defined by the <簡化字總表>,  
-  derived simplifications, or otherwise simplier forms in common use in Regular
-  script historically.
+- `simp`  
+  The source ideograph is a simplified variant of the destination ideograph.
+  Simplification may be an official simplification defined by the 《簡化字總表》,
+  official and unofficial derived simplifications, or otherwise simplier forms in
+  popular handwritten use. Characters which are used as both Simplified and 
+  Traditional forms are excluded.
 
-- old  
-  Alternative shape-based transliterations of older scripts used by Han, such as  
+- `old`  
+  Alternative shape-based transliterations of older scripts used by Han, such as
   Small Seal, "guwen 古文", etc.  Variants covered by the `wrong` classification  
   are excluded.
 
-- =  
-  Z-variants of existing characters, where they are unifiable and/or not readily  
+- `=`  
+  Z-variants of existing characters, where they are unifiable and/or not readily
   distinguished by users of the Han script.
 
 # License
