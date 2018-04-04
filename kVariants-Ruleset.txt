@@ -2,7 +2,8 @@
 # (https://github.com/cjkvi/cjkvi-ids/blob/master/ids-cdp.txt)
 # for possible variants.
 
-// Character & Components which can be derived Simplified
+# Character & Components which can be derived Simplified
+# Format: Source / Classification / Destination
 爱 simp 愛
 罢 simp 罷
 备 simp 備
@@ -136,7 +137,8 @@
 𢀖 simp 巠
 呙 simp 咼
 
-// Problematic examples which require manual inspection
+# Simp (Problematic examples which require manual inspection)
+# Format: Source / Classification / Destination
 #虫 simp 蟲
 #从 simp 從
 #达 simp 達
@@ -152,7 +154,8 @@
 #圣 simp 聖
 #亦 simp 䜌
 
-// Concrete Examples
+# Simp (Concrete Examples)
+# Format: Destination / Classification / Source
 則 simp 则
 勞 simp 劳
 貧 simp 贫
@@ -174,7 +177,8 @@
 鲣 simp 鰹
 藍 simp 蓝
 
-// Non-standard and/or Japanese
+# Simp (Non-standard and/or Japanese)
+# Format: Destination / Classification / Source
 卒 simp 卆
 肅 simp 粛
 襄 simp 㐮
@@ -189,6 +193,9 @@
 備 simp 俻
 齊 simp 亝
 嚴 simp 厳
+
+# Other Rules
+# Format: Destination / Classification / Source
 
 覃 old 𪉷
 
