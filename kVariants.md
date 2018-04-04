@@ -1,6 +1,7 @@
 # Introduction
 `kVariants.txt` is a tab separated file of CJK ideographs variants. Information 
-was collected by looking up dictionary sources quoted by the Unihan Database.
+was collected by looking up dictionary sources such as Kangxi Zidian, Hanyu
+Dazidian, and other sources quoted by the MOE Dictionary.
 
 # Format
 The file is split into three columns:  
