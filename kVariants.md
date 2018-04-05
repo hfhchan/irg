@@ -9,15 +9,15 @@ The file is split into three columns:
 2. Classification  
 3. Destination Ideograph
 
-There are five classifications, `wrong!`, `wrong`, `simp`, `old` and `=`.
+There are five classifications, `wrong!`, `sem`, `simp`, `old` and `=`.
 - `wrong!`  
   Variants which are identified by their source dictionaries as incorrect
   forms of the destination character. Some dictionaries may refer to common
   systematic variants as errorenous forms; those variants are grouped into the
   `wrong` classification.
 
-- `wrong`  
-  Includes characters which one of the following:
+- `sem`  
+  Includes semantic variants which one of the following:
   - systematic corruptions or variations of another character 
   - characters with non-unifiable structural differences, such as stretching of
     top 艹  
