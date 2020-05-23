@@ -14,7 +14,7 @@ There are five classifications, `wrong!`, `sem`, `simp`, `old` and `=`.
   Variants which are identified by their source dictionaries as incorrect
   forms of the destination character. Some dictionaries may refer to common
   systematic variants as errorenous forms; those variants are grouped into the
-  `wrong` classification.
+  `sem` classification.
 
 - `sem`  
   Includes semantic variants which one of the following:
