@@ -34,7 +34,7 @@ There are five classifications, `wrong!`, `sem`, `simp`, `old` and `=`.
 
 - `old`  
   Alternative shape-based transliterations of older scripts used by Han, such as
-  Small Seal, "guwen 古文", etc.  Variants covered by the `wrong` classification  
+  Small Seal, "guwen 古文", etc.  Variants covered by the `sem` classification  
   are excluded.
 
 - `=`  
