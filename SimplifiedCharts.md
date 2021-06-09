@@ -2,12 +2,19 @@
 
 ## 基本區
 ### 丬
+````
 U+4E2C	kRSUnicode	90'.0
+````
+
 
 ### 卤
+````
 U+5364	kRSUnicode	197'.0
+````
+
 
 ### 纟
+````
 U+7E9F	kRSUnicode	120'.0
 U+7EA0	kRSUnicode	120'.2
 U+7EA1	kRSUnicode	120'.3
@@ -159,8 +166,11 @@ U+7F32	kRSUnicode	120'.13
 U+7F33	kRSUnicode	120'.13
 U+7F34	kRSUnicode	120'.13
 U+7F35	kRSUnicode	120'.16
+````
+
 
 ### 见
+````
 U+89C1	kRSUnicode	147'.0
 U+89C2	kRSUnicode	147'.2
 U+89C3	kRSUnicode	147'.3
@@ -177,8 +187,11 @@ U+89CE	kRSUnicode	147'.9
 U+89CF	kRSUnicode	147'.10
 U+89D0	kRSUnicode	147'.11
 U+89D1	kRSUnicode	147'.11
+````
+
 
 ### 讠
+````
 U+8BA0	kRSUnicode	149'.0
 U+8BA1	kRSUnicode	149'.2
 U+8BA2	kRSUnicode	149'.2
@@ -330,8 +343,11 @@ U+8C33	kRSUnicode	149'.13
 U+8C34	kRSUnicode	149'.13
 U+8C35	kRSUnicode	149'.13
 U+8C36	kRSUnicode	149'.17
+````
+
 
 ### 贝
+````
 U+8D1D	kRSUnicode	154'.0
 U+8D1E	kRSUnicode	154'.2
 U+8D1F	kRSUnicode	154'.2
@@ -403,8 +419,11 @@ U+8D60	kRSUnicode	154'.12
 U+8D61	kRSUnicode	154'.13
 U+8D62	kRSUnicode	154'.13
 U+8D63	kRSUnicode	154'.17
+````
+
 
 ### 车
+````
 U+8F66	kRSUnicode	159'.0
 U+8F67	kRSUnicode	159'.1
 U+8F68	kRSUnicode	159'.2
@@ -458,8 +477,11 @@ U+8F97	kRSUnicode	159'.10
 U+8F98	kRSUnicode	159'.11
 U+8F99	kRSUnicode	159'.12
 U+8F9A	kRSUnicode	159'.12
+````
+
 
 ### 钅
+````
 U+9485	kRSUnicode	167'.0
 U+9486	kRSUnicode	167'.1
 U+9487	kRSUnicode	167'.1
@@ -702,11 +724,17 @@ U+9573	kRSUnicode	167'.15
 U+9574	kRSUnicode	167'.15
 U+9575	kRSUnicode	167'.17
 U+9576	kRSUnicode	167'.17
+````
+
 
 ### 长
+````
 U+957F	kRSUnicode	168'.0
+````
+
 
 ### 门
+````
 U+95E8	kRSUnicode	169'.0
 U+95E9	kRSUnicode	169'.1
 U+95EA	kRSUnicode	169'.2
@@ -759,8 +787,11 @@ U+9618	kRSUnicode	169'.10
 U+9619	kRSUnicode	169'.10
 U+961A	kRSUnicode	169'.11
 U+961B	kRSUnicode	169'.13
+````
+
 
 ### 韦
+````
 U+97E6	kRSUnicode	178'.0
 U+97E7	kRSUnicode	178'.3
 U+97E8	kRSUnicode	178'.5
@@ -768,8 +799,11 @@ U+97E9	kRSUnicode	178'.8
 U+97EA	kRSUnicode	178'.9
 U+97EB	kRSUnicode	178'.9
 U+97EC	kRSUnicode	178'.10
+````
+
 
 ### 页
+````
 U+9875	kRSUnicode	181'.0
 U+9876	kRSUnicode	181'.2
 U+9877	kRSUnicode	181'.2
@@ -821,8 +855,11 @@ U+98A4	kRSUnicode	181'.13
 U+98A5	kRSUnicode	181'.14
 U+98A6	kRSUnicode	181'.15
 U+98A7	kRSUnicode	181'.17
+````
+
 
 ### 风
+````
 U+98CE	kRSUnicode	182'.0
 U+98CF	kRSUnicode	182'.3
 U+98D0	kRSUnicode	182'.5
@@ -836,11 +873,17 @@ U+98D7	kRSUnicode	182'.10
 U+98D8	kRSUnicode	182'.11
 U+98D9	kRSUnicode	182'.12
 U+98DA	kRSUnicode	182'.12
+````
+
 
 ### 飞
+````
 U+98DE	kRSUnicode	183'.0
+````
+
 
 ### 饣
+````
 U+9963	kRSUnicode	184'.0
 U+9964	kRSUnicode	184'.2
 U+9965	kRSUnicode	184'.2
@@ -892,8 +935,11 @@ U+9992	kRSUnicode	184'.11
 U+9993	kRSUnicode	184'.12
 U+9994	kRSUnicode	184'.12
 U+9995	kRSUnicode	184'.22
+````
+
 
 ### 马
+````
 U+9A6C	kRSUnicode	187'.0
 U+9A6D	kRSUnicode	187'.2
 U+9A6E	kRSUnicode	187'.3
@@ -954,8 +1000,11 @@ U+9AA4	kRSUnicode	187'.14
 U+9AA5	kRSUnicode	187'.16
 U+9AA6	kRSUnicode	187'.17
 U+9AA7	kRSUnicode	187'.17
+````
+
 
 ### 鱼
+````
 U+9C7C	kRSUnicode	195'.0
 U+9C7D	kRSUnicode	195'.2
 U+9C7E	kRSUnicode	195'.3
@@ -1061,8 +1110,11 @@ U+9CE1	kRSUnicode	195'.13
 U+9CE2	kRSUnicode	195'.13
 U+9CE3	kRSUnicode	195'.13
 U+9CE4	kRSUnicode	195'.14
+````
+
 
 ### 鸟
+````
 U+9E1F	kRSUnicode	196'.0
 U+9E20	kRSUnicode	196'.2
 U+9E21	kRSUnicode	196'.2
@@ -1149,27 +1201,42 @@ U+9E71	kRSUnicode	196'.14
 U+9E72	kRSUnicode	196'.14
 U+9E73	kRSUnicode	196'.17
 U+9E74	kRSUnicode	196'.17
+````
+
 
 ### 卤
+````
 U+9E7E	kRSUnicode	197'.9
+````
+
 
 ### 麦
+````
 U+9EA6	kRSUnicode	199'.0
 U+9EB8	kRSUnicode	199'.4
 U+9EB9	kRSUnicode	199'.8
 U+9EBA	kRSUnicode	199'.9
+````
+
 
 ### 黾
+````
 U+9EFE	kRSUnicode	205'.0
 U+9F0B	kRSUnicode	205'.4
 U+9F0C	kRSUnicode	205'.5
 U+9F0D	kRSUnicode	205'.12
+````
+
 
 ### 齐
+````
 U+9F50	kRSUnicode	210'.0
 U+9F51	kRSUnicode	210'.9
+````
+
 
 ### 齿
+````
 U+9F7F	kRSUnicode	211'.0
 U+9F80	kRSUnicode	211'.2
 U+9F81	kRSUnicode	211'.3
@@ -1184,38 +1251,62 @@ U+9F89	kRSUnicode	211'.7
 U+9F8A	kRSUnicode	211'.7
 U+9F8B	kRSUnicode	211'.9
 U+9F8C	kRSUnicode	211'.9
+````
+
 
 ### 龙
+````
 U+9F99	kRSUnicode	212'.0
 U+9F9A	kRSUnicode	212'.6
 U+9F9B	kRSUnicode	212'.6
+````
+
 
 ### 龟
+````
 U+9F9F	kRSUnicode	213'.0
+````
+
 
 ### 钅
+````
 U+9FCF	kRSUnicode	167'.7
 U+9FD4	kRSUnicode	167'.10
+````
+
 
 ### 鱼
+````
 U+9FD5	kRSUnicode	195'.4
+````
+
 
 ### 钅
+````
 U+9FED	kRSUnicode	167'.5
+````
+
 
 ### 鱼
+````
 U+9FF4	kRSUnicode	195'.5
 U+9FF5	kRSUnicode	195'.7
 U+9FF6	kRSUnicode	195'.7
 U+9FF7	kRSUnicode	195'.9
 U+9FF8	kRSUnicode	195'.11
 U+9FF9	kRSUnicode	195'.11
+````
+
 
 ### 鸟
+````
 U+9FFA	kRSUnicode	196'.7
+````
+
 
 ## 擴展區 A
 ### 纟
+````
 U+4336	kRSUnicode	120'.3
 U+4337	kRSUnicode	120'.5
 U+4338	kRSUnicode	120'.4
@@ -1228,8 +1319,11 @@ U+433E	kRSUnicode	120'.9
 U+433F	kRSUnicode	120'.9
 U+4340	kRSUnicode	120'.10
 U+4341	kRSUnicode	120'.13
+````
+
 
 ### 讠
+````
 U+4723	kRSUnicode	149'.4
 U+4724	kRSUnicode	149'.6
 U+4725	kRSUnicode	149'.8
@@ -1237,20 +1331,29 @@ U+4726	kRSUnicode	149'.10
 U+4727	kRSUnicode	149'.10
 U+4728	kRSUnicode	149'.11
 U+4729	kRSUnicode	149'.16
+````
+
 
 ### 贝
+````
 U+478C	kRSUnicode	154'.6
 U+478D	kRSUnicode	154'.8
 U+478E	kRSUnicode	154'.8
 U+478F	kRSUnicode	154'.9
 U+4790	kRSUnicode	154'.9
+````
+
 
 ### 车
+````
 U+4880	kRSUnicode	159'.3
 U+4881	kRSUnicode	159'.4
 U+4882	kRSUnicode	159'.5
+````
+
 
 ### 钅
+````
 U+497A	kRSUnicode	167'.4
 U+497B	kRSUnicode	167'.4
 U+497C	kRSUnicode	167'.4
@@ -1264,21 +1367,33 @@ U+4983	kRSUnicode	167'.12
 U+4984	kRSUnicode	167'.12
 U+4985	kRSUnicode	167'.12
 U+4986	kRSUnicode	167'.20
+````
+
 
 ### 门
+````
 U+49B6	kRSUnicode	169'.6
 U+49B7	kRSUnicode	169'.7
 U+49B8	kRSUnicode	169'.9
+````
+
 
 ### 饣
+````
 U+4B6A	kRSUnicode	184'.12
+````
+
 
 ### 马
+````
 U+4BC3	kRSUnicode	187'.6
 U+4BC4	kRSUnicode	187'.7
 U+4BC5	kRSUnicode	187'.10
+````
+
 
 ### 鱼
+````
 U+4C9D	kRSUnicode	195'.4
 U+4C9E	kRSUnicode	195'.5
 U+4C9F	kRSUnicode	195'.5
@@ -1287,8 +1402,11 @@ U+4CA1	kRSUnicode	195'.9
 U+4CA2	kRSUnicode	195'.10
 U+4CA3	kRSUnicode	195'.10
 U+4CA4	kRSUnicode	195'.10
+````
+
 
 ### 鸟
+````
 U+4D13	kRSUnicode	196'.4
 U+4D14	kRSUnicode	196'.6
 U+4D15	kRSUnicode	196'.6
@@ -1296,13 +1414,19 @@ U+4D16	kRSUnicode	196'.8
 U+4D17	kRSUnicode	196'.9
 U+4D18	kRSUnicode	196'.10
 U+4D19	kRSUnicode	196'.13
+````
+
 
 ### 龙
+````
 U+4DAD	kRSUnicode	212'.4
 U+4DAE	kRSUnicode	212'.4
+````
+
 
 ## 擴展區 B
 ### 纟
+````
 U+26208	kRSUnicode	120'.5
 U+26209	kRSUnicode	120'.6
 U+2620A	kRSUnicode	120'.7
@@ -1329,11 +1453,17 @@ U+2621E	kRSUnicode	120'.13
 U+2621F	kRSUnicode	120'.13
 U+26220	kRSUnicode	120'.14
 U+26221	kRSUnicode	120'.14
+````
+
 
 ### 讠
+````
 U+27BAA	kRSUnicode	149'.5
+````
+
 
 ### 贝
+````
 U+27E51	kRSUnicode	154'.4
 U+27E52	kRSUnicode	154'.5
 U+27E53	kRSUnicode	154'.7
@@ -1341,16 +1471,22 @@ U+27E54	kRSUnicode	154'.8
 U+27E55	kRSUnicode	154'.8
 U+27E56	kRSUnicode	154'.8
 U+27E57	kRSUnicode	154'.11
+````
+
 
 ### 车
+````
 U+28405	kRSUnicode	159'.4
 U+28406	kRSUnicode	159'.4
 U+28407	kRSUnicode	159'.5
 U+28408	kRSUnicode	159'.6
 U+28409	kRSUnicode	159'.12
 U+2840A	kRSUnicode	159'.16
+````
+
 
 ### 钅
+````
 U+28C3E	kRSUnicode	167'.3
 U+28C3F	kRSUnicode	167'.3
 U+28C40	kRSUnicode	167'.4
@@ -1376,8 +1512,11 @@ U+28C53	kRSUnicode	167'.12
 U+28C54	kRSUnicode	167'.12
 U+28C55	kRSUnicode	167'.13
 U+28C56	kRSUnicode	167'.13
+````
+
 
 ### 门
+````
 U+28DFF	kRSUnicode	169'.3
 U+28E00	kRSUnicode	169'.3
 U+28E01	kRSUnicode	169'.3
@@ -1394,20 +1533,29 @@ U+28E0B	kRSUnicode	169'.12
 U+28E0C	kRSUnicode	169'.12
 U+28E0D	kRSUnicode	169'.14
 U+28E0E	kRSUnicode	169'.17
+````
+
 
 ### 韦
+````
 U+293FC	kRSUnicode	178'.4
 U+293FD	kRSUnicode	178'.5
 U+293FE	kRSUnicode	178'.5
 U+293FF	kRSUnicode	178'.9
 U+29400	kRSUnicode	178'.9
+````
+
 
 ### 页
+````
 U+29595	kRSUnicode	181'.8
 U+29596	kRSUnicode	181'.8
 U+29597	kRSUnicode	181'.13
+````
+
 
 ### 风
+````
 U+29665	kRSUnicode	182'.5
 U+29666	kRSUnicode	182'.5
 U+29667	kRSUnicode	182'.7
@@ -1420,8 +1568,11 @@ U+2966D	kRSUnicode	182'.10
 U+2966E	kRSUnicode	182'.10
 U+2966F	kRSUnicode	182'.12
 U+29670	kRSUnicode	182'.13
+````
+
 
 ### 饣
+````
 U+297FE	kRSUnicode	184'.4
 U+297FF	kRSUnicode	184'.4
 U+29800	kRSUnicode	184'.4
@@ -1440,8 +1591,11 @@ U+2980C	kRSUnicode	184'.10
 U+2980D	kRSUnicode	184'.11
 U+2980E	kRSUnicode	184'.11
 U+2980F	kRSUnicode	184'.12
+````
+
 
 ### 马
+````
 U+299E6	kRSUnicode	187'.4
 U+299E7	kRSUnicode	187'.5
 U+299E8	kRSUnicode	187'.5
@@ -1485,8 +1639,11 @@ U+29A0D	kRSUnicode	187'.10
 U+29A0E	kRSUnicode	187'.12
 U+29A0F	kRSUnicode	187'.12
 U+29A10	kRSUnicode	187'.15
+````
+
 
 ### 鱼
+````
 U+29F79	kRSUnicode	195'.4
 U+29F7A	kRSUnicode	195'.4
 U+29F7B	kRSUnicode	195'.4
@@ -1506,8 +1663,11 @@ U+29F8A	kRSUnicode	195'.9
 U+29F8B	kRSUnicode	195'.9
 U+29F8C	kRSUnicode	195'.11
 U+29F8E	kRSUnicode	195'.15
+````
+
 
 ### 鸟
+````
 U+2A241	kRSUnicode	196'.4
 U+2A242	kRSUnicode	196'.4
 U+2A243	kRSUnicode	196'.4
@@ -1529,8 +1689,11 @@ U+2A252	kRSUnicode	196'.10
 U+2A253	kRSUnicode	196'.10
 U+2A254	kRSUnicode	196'.10
 U+2A255	kRSUnicode	196'.15
+````
+
 
 ### 麦
+````
 U+2A388	kRSUnicode	199'.3
 U+2A389	kRSUnicode	199'.4
 U+2A38A	kRSUnicode	199'.4
@@ -1540,13 +1703,19 @@ U+2A38D	kRSUnicode	199'.2
 U+2A38E	kRSUnicode	199'.8
 U+2A38F	kRSUnicode	199'.8
 U+2A390	kRSUnicode	199'.11
+````
+
 
 ### 齿
+````
 U+2A68F	kRSUnicode	211'.6
 U+2A690	kRSUnicode	211'.8
+````
+
 
 ## 擴展區 C
 ### 纟
+````
 U+2B119	kRSUnicode	120'.1
 U+2B11A	kRSUnicode	120'.4
 U+2B11B	kRSUnicode	120'.4
@@ -1580,16 +1749,22 @@ U+2B136	kRSUnicode	120'.12
 U+2B137	kRSUnicode	120'.13
 U+2B138	kRSUnicode	120'.14
 U+2B139	kRSUnicode	120'.18
+````
+
 
 ### 见
+````
 U+2B328	kRSUnicode	147'.5
 U+2B329	kRSUnicode	147'.5
 U+2B32A	kRSUnicode	147'.6
 U+2B32B	kRSUnicode	147'.9
 U+2B32C	kRSUnicode	147'.11
 U+2B32D	kRSUnicode	147'.13
+````
+
 
 ### 讠
+````
 U+2B359	kRSUnicode	149'.3
 U+2B35A	kRSUnicode	149'.4
 U+2B35B	kRSUnicode	149'.4
@@ -1629,8 +1804,11 @@ U+2B37C	kRSUnicode	149'.12
 U+2B37D	kRSUnicode	149'.13
 U+2B37E	kRSUnicode	149'.14
 U+2B37F	kRSUnicode	149'.15
+````
+
 
 ### 贝
+````
 U+2B3A6	kRSUnicode	154'.5
 U+2B3A7	kRSUnicode	154'.5
 U+2B3A8	kRSUnicode	154'.7
@@ -1638,8 +1816,11 @@ U+2B3A9	kRSUnicode	154'.8
 U+2B3AA	kRSUnicode	154'.9
 U+2B3AB	kRSUnicode	154'.12
 U+2B3AC	kRSUnicode	154'.14
+````
+
 
 ### 车
+````
 U+2B404	kRSUnicode	159'.3
 U+2B405	kRSUnicode	159'.3
 U+2B406	kRSUnicode	159'.4
@@ -1662,8 +1843,11 @@ U+2B416	kRSUnicode	159'.11
 U+2B417	kRSUnicode	159'.12
 U+2B418	kRSUnicode	159'.13
 U+2B419	kRSUnicode	159'.15
+````
+
 
 ### 钅
+````
 U+2B4E5	kRSUnicode	167'.2
 U+2B4E6	kRSUnicode	167'.3
 U+2B4E7	kRSUnicode	167'.4
@@ -1713,8 +1897,11 @@ U+2B512	kRSUnicode	167'.14
 U+2B513	kRSUnicode	167'.16
 U+2B514	kRSUnicode	167'.18
 U+2B515	kRSUnicode	167'.19
+````
+
 
 ### 门
+````
 U+2B52C	kRSUnicode	169'.3
 U+2B52D	kRSUnicode	169'.4
 U+2B52E	kRSUnicode	169'.4
@@ -1729,16 +1916,22 @@ U+2B536	kRSUnicode	169'.10
 U+2B537	kRSUnicode	169'.11
 U+2B538	kRSUnicode	169'.11
 U+2B539	kRSUnicode	169'.14
+````
+
 
 ### 韦
+````
 U+2B591	kRSUnicode	178'.4
 U+2B592	kRSUnicode	178'.6
 U+2B593	kRSUnicode	178'.8
 U+2B594	kRSUnicode	178'.10
 U+2B595	kRSUnicode	178'.10
 U+2B596	kRSUnicode	178'.12
+````
+
 
 ### 页
+````
 U+2B5AA	kRSUnicode	181'.3
 U+2B5AB	kRSUnicode	181'.4
 U+2B5AC	kRSUnicode	181'.5
@@ -1756,18 +1949,27 @@ U+2B5B7	kRSUnicode	181'.9
 U+2B5B8	kRSUnicode	181'.10
 U+2B5B9	kRSUnicode	181'.11
 U+2B5BA	kRSUnicode	181'.15
+````
+
 
 ### 风
+````
 U+2B5C7	kRSUnicode	182'.4
 U+2B5C8	kRSUnicode	182'.7
 U+2B5C9	kRSUnicode	182'.8
 U+2B5CA	kRSUnicode	182'.9
 U+2B5CB	kRSUnicode	182'.13
+````
+
 
 ### 飞
+````
 U+2B5CC	kRSUnicode	183'.8
+````
+
 
 ### 饣
+````
 U+2B5DE	kRSUnicode	184'.3
 U+2B5DF	kRSUnicode	184'.4
 U+2B5E0	kRSUnicode	184'.4
@@ -1792,8 +1994,11 @@ U+2B5F2	kRSUnicode	184'.12
 U+2B5F3	kRSUnicode	184'.12
 U+2B5F4	kRSUnicode	184'.13
 U+2B5F5	kRSUnicode	184'.17
+````
+
 
 ### 马
+````
 U+2B61B	kRSUnicode	187'.3
 U+2B61C	kRSUnicode	187'.4
 U+2B61D	kRSUnicode	187'.4
@@ -1817,8 +2022,11 @@ U+2B62E	kRSUnicode	187'.11
 U+2B62F	kRSUnicode	187'.12
 U+2B630	kRSUnicode	187'.13
 U+2B631	kRSUnicode	187'.18
+````
+
 
 ### 鱼
+````
 U+2B688	kRSUnicode	195'.3
 U+2B689	kRSUnicode	195'.3
 U+2B68A	kRSUnicode	195'.3
@@ -1857,8 +2065,11 @@ U+2B6AA	kRSUnicode	195'.12
 U+2B6AB	kRSUnicode	195'.13
 U+2B6AC	kRSUnicode	195'.14
 U+2B6AD	kRSUnicode	195'.15
+````
+
 
 ### 鸟
+````
 U+2B6DA	kRSUnicode	196'.4
 U+2B6DB	kRSUnicode	196'.4
 U+2B6DC	kRSUnicode	196'.4
@@ -1904,21 +2115,33 @@ U+2B703	kRSUnicode	196'.12
 U+2B704	kRSUnicode	196'.12
 U+2B705	kRSUnicode	196'.13
 U+2B706	kRSUnicode	196'.14
+````
+
 
 ### 卤
+````
 U+2B70A	kRSUnicode	197'.9
+````
+
 
 ### 麦
+````
 U+2B711	kRSUnicode	199'.4
 U+2B712	kRSUnicode	199'.5
 U+2B713	kRSUnicode	199'.7
 U+2B714	kRSUnicode	199'.8
 U+2B715	kRSUnicode	199'.10
+````
+
 
 ### 黾
+````
 U+2B71F	kRSUnicode	205'.9
+````
+
 
 ### 齿
+````
 U+2B728	kRSUnicode	211'.4
 U+2B729	kRSUnicode	211'.6
 U+2B72A	kRSUnicode	211'.6
@@ -1928,34 +2151,52 @@ U+2B72D	kRSUnicode	211'.8
 U+2B72E	kRSUnicode	211'.9
 U+2B72F	kRSUnicode	211'.10
 U+2B730	kRSUnicode	211'.13
+````
+
 
 ### 龙
+````
 U+2B732	kRSUnicode	212'.6
+````
+
 
 ### 龟
+````
 U+2B733	kRSUnicode	213'.5
+````
+
 
 ## 擴展區 D
 ### 纟
+````
 U+2B7C3	kRSUnicode	120'.6
 U+2B7C4	kRSUnicode	120'.7
 U+2B7C5	kRSUnicode	120'.8
 U+2B7C6	kRSUnicode	120'.9
 U+2B7C7	kRSUnicode	120'.14
+````
+
 
 ### 讠
+````
 U+2B7DE	kRSUnicode	149'.4
 U+2B7DF	kRSUnicode	149'.5
 U+2B7E0	kRSUnicode	149'.8
 U+2B7E1	kRSUnicode	149'.8
 U+2B7E2	kRSUnicode	149'.10
+````
+
 
 ### 车
+````
 U+2B7E4	kRSUnicode	159'.5
 U+2B7E5	kRSUnicode	159'.10
 U+2B7E6	kRSUnicode	159'.13
+````
+
 
 ### 钅
+````
 U+2B7F2	kRSUnicode	167'.2
 U+2B7F3	kRSUnicode	167'.3
 U+2B7F4	kRSUnicode	167'.4
@@ -1972,46 +2213,79 @@ U+2B7FE	kRSUnicode	167'.9
 U+2B7FF	kRSUnicode	167'.9
 U+2B800	kRSUnicode	167'.10
 U+2B801	kRSUnicode	167'.14
+````
+
 
 ### 门
+````
 U+2B802	kRSUnicode	169'.5
+````
+
 
 ### 韦
+````
 U+2B805	kRSUnicode	178'.9
+````
+
 
 ### 页
+````
 U+2B806	kRSUnicode	181'.4
+````
+
 
 ### 风
+````
 U+2B807	kRSUnicode	182'.4
 U+2B808	kRSUnicode	182'.5
+````
+
 
 ### 马
+````
 U+2B80A	kRSUnicode	187'.5
 U+2B80B	kRSUnicode	187'.11
 U+2B80C	kRSUnicode	187'.13
+````
+
 
 ### 鱼
+````
 U+2B80F	kRSUnicode	195'.4
 U+2B810	kRSUnicode	195'.5
 U+2B811	kRSUnicode	195'.9
 U+2B812	kRSUnicode	195'.11
+````
+
 
 ### 鸟
+````
 U+2B816	kRSUnicode	196'.4
+````
+
 
 ### 卤
+````
 U+2B817	kRSUnicode	197'.8
+````
+
 
 ### 齿
+````
 U+2B81A	kRSUnicode	211'.5
 U+2B81C	kRSUnicode	211'.8
+````
+
 
 ## 擴展區 E
 ### 丬
+````
 U+2C312	kRSUnicode	90'.11
+````
+
 
 ### 纟
+````
 U+2C613	kRSUnicode	120'.3
 U+2C614	kRSUnicode	120'.4
 U+2C615	kRSUnicode	120'.4
@@ -2069,8 +2343,11 @@ U+2C648	kRSUnicode	120'.12
 U+2C649	kRSUnicode	120'.13
 U+2C64A	kRSUnicode	120'.15
 U+2C64B	kRSUnicode	120'.17
+````
+
 
 ### 见
+````
 U+2C887	kRSUnicode	147'.2
 U+2C888	kRSUnicode	147'.5
 U+2C889	kRSUnicode	147'.5
@@ -2085,8 +2362,11 @@ U+2C891	kRSUnicode	147'.9
 U+2C892	kRSUnicode	147'.10
 U+2C893	kRSUnicode	147'.11
 U+2C894	kRSUnicode	147'.12
+````
+
 
 ### 讠
+````
 U+2C8D9	kRSUnicode	149'.3
 U+2C8DA	kRSUnicode	149'.3
 U+2C8DB	kRSUnicode	149'.4
@@ -2176,8 +2456,11 @@ U+2C92E	kRSUnicode	149'.16
 U+2C92F	kRSUnicode	149'.17
 U+2C930	kRSUnicode	149'.18
 U+2C931	kRSUnicode	149'.18
+````
+
 
 ### 贝
+````
 U+2C973	kRSUnicode	154'.4
 U+2C974	kRSUnicode	154'.5
 U+2C975	kRSUnicode	154'.5
@@ -2192,8 +2475,11 @@ U+2C97D	kRSUnicode	154'.9
 U+2C97E	kRSUnicode	154'.10
 U+2C97F	kRSUnicode	154'.14
 U+2C980	kRSUnicode	154'.22
+````
+
 
 ### 车
+````
 U+2CA01	kRSUnicode	159'.4
 U+2CA02	kRSUnicode	159'.4
 U+2CA03	kRSUnicode	159'.4
@@ -2215,8 +2501,11 @@ U+2CA12	kRSUnicode	159'.11
 U+2CA13	kRSUnicode	159'.11
 U+2CA14	kRSUnicode	159'.13
 U+2CA15	kRSUnicode	159'.14
+````
+
 
 ### 钅
+````
 U+2CB27	kRSUnicode	167'.3
 U+2CB28	kRSUnicode	167'.3
 U+2CB29	kRSUnicode	167'.3
@@ -2310,8 +2599,11 @@ U+2CB80	kRSUnicode	167'.16
 U+2CB81	kRSUnicode	167'.17
 U+2CB82	kRSUnicode	167'.19
 U+2CB83	kRSUnicode	167'.20
+````
+
 
 ### 门
+````
 U+2CB98	kRSUnicode	169'.2
 U+2CB99	kRSUnicode	169'.3
 U+2CB9A	kRSUnicode	169'.3
@@ -2346,8 +2638,11 @@ U+2CBB6	kRSUnicode	169'.11
 U+2CBB7	kRSUnicode	169'.11
 U+2CBB8	kRSUnicode	169'.12
 U+2CBB9	kRSUnicode	169'.12
+````
+
 
 ### 韦
+````
 U+2CC31	kRSUnicode	178'.3
 U+2CC32	kRSUnicode	178'.4
 U+2CC33	kRSUnicode	178'.5
@@ -2356,8 +2651,11 @@ U+2CC35	kRSUnicode	178'.9
 U+2CC36	kRSUnicode	178'.12
 U+2CC37	kRSUnicode	178'.13
 U+2CC38	kRSUnicode	178'.16
+````
+
 
 ### 页
+````
 U+2CC53	kRSUnicode	181'.2
 U+2CC54	kRSUnicode	181'.4
 U+2CC55	kRSUnicode	181'.4
@@ -2391,8 +2689,11 @@ U+2CC70	kRSUnicode	181'.10
 U+2CC71	kRSUnicode	181'.12
 U+2CC72	kRSUnicode	181'.14
 U+2CC73	kRSUnicode	181'.17
+````
+
 
 ### 风
+````
 U+2CC75	kRSUnicode	182'.4
 U+2CC76	kRSUnicode	182'.4
 U+2CC77	kRSUnicode	182'.4
@@ -2413,8 +2714,11 @@ U+2CC85	kRSUnicode	182'.12
 U+2CC86	kRSUnicode	182'.12
 U+2CC87	kRSUnicode	182'.13
 U+2CC88	kRSUnicode	182'.13
+````
+
 
 ### 饣
+````
 U+2CCA5	kRSUnicode	184'.2
 U+2CCA6	kRSUnicode	184'.2
 U+2CCA7	kRSUnicode	184'.3
@@ -2463,8 +2767,11 @@ U+2CCD1	kRSUnicode	184'.12
 U+2CCD2	kRSUnicode	184'.12
 U+2CCD3	kRSUnicode	184'.13
 U+2CCD4	kRSUnicode	184'.14
+````
+
 
 ### 马
+````
 U+2CCF3	kRSUnicode	187'.4
 U+2CCF4	kRSUnicode	187'.5
 U+2CCF5	kRSUnicode	187'.5
@@ -2495,8 +2802,11 @@ U+2CD0D	kRSUnicode	187'.15
 U+2CD0E	kRSUnicode	187'.16
 U+2CD0F	kRSUnicode	187'.17
 U+2CD10	kRSUnicode	187'.18
+````
+
 
 ### 鱼
+````
 U+2CD80	kRSUnicode	195'.2
 U+2CD81	kRSUnicode	195'.2
 U+2CD82	kRSUnicode	195'.3
@@ -2557,8 +2867,11 @@ U+2CDB8	kRSUnicode	195'.15
 U+2CDB9	kRSUnicode	195'.16
 U+2CDBA	kRSUnicode	195'.18
 U+2CDBB	kRSUnicode	195'.21
+````
+
 
 ### 鸟
+````
 U+2CDD5	kRSUnicode	196'.7
 U+2CDFB	kRSUnicode	196'.1
 U+2CDFC	kRSUnicode	196'.2
@@ -2615,15 +2928,21 @@ U+2CE2E	kRSUnicode	196'.13
 U+2CE2F	kRSUnicode	196'.13
 U+2CE30	kRSUnicode	196'.16
 U+2CE31	kRSUnicode	196'.18
+````
+
 
 ### 卤
+````
 U+2CE35	kRSUnicode	197'.5
 U+2CE36	kRSUnicode	197'.8
 U+2CE37	kRSUnicode	197'.9
 U+2CE38	kRSUnicode	197'.9
 U+2CE39	kRSUnicode	197'.11
+````
+
 
 ### 麦
+````
 U+2CE45	kRSUnicode	199'.3
 U+2CE46	kRSUnicode	199'.6
 U+2CE47	kRSUnicode	199'.7
@@ -2634,15 +2953,24 @@ U+2CE4B	kRSUnicode	199'.8
 U+2CE4C	kRSUnicode	199'.8
 U+2CE4D	kRSUnicode	199'.11
 U+2CE4E	kRSUnicode	199'.12
+````
+
 
 ### 黾
+````
 U+2CE63	kRSUnicode	205'.6
 U+2CE64	kRSUnicode	205'.8
+````
+
 
 ### 齐
+````
 U+2CE73	kRSUnicode	210'.4
+````
+
 
 ### 齿
+````
 U+2CE7A	kRSUnicode	211'.4
 U+2CE7B	kRSUnicode	211'.4
 U+2CE7C	kRSUnicode	211'.4
@@ -2672,17 +3000,26 @@ U+2CE93	kRSUnicode	211'.13
 U+2CE94	kRSUnicode	211'.13
 U+2CE95	kRSUnicode	211'.14
 U+2CE96	kRSUnicode	211'.17
+````
+
 
 ### 龙
+````
 U+2CE9B	kRSUnicode	212'.3
 U+2CE9C	kRSUnicode	212'.4
 U+2CE9D	kRSUnicode	212'.11
+````
+
 
 ### 龟
+````
 U+2CE9E	kRSUnicode	213'.0
+````
+
 
 ## 擴展區 F
 ### 纟
+````
 U+2E260	kRSUnicode	120'.2
 U+2E261	kRSUnicode	120'.5
 U+2E262	kRSUnicode	120'.5
@@ -2699,13 +3036,19 @@ U+2E26C	kRSUnicode	120'.8
 U+2E26D	kRSUnicode	120'.9
 U+2E26E	kRSUnicode	120'.11
 U+2E26F	kRSUnicode	120'.11
+````
+
 
 ### 讠
+````
 U+2E649	kRSUnicode	149'.7
 U+2E64A	kRSUnicode	149'.12
 U+2E64B	kRSUnicode	149'.15
+````
+
 
 ### 车
+````
 U+2E773	kRSUnicode	159'.4
 U+2E774	kRSUnicode	159'.5
 U+2E775	kRSUnicode	159'.6
@@ -2714,16 +3057,22 @@ U+2E777	kRSUnicode	159'.9
 U+2E778	kRSUnicode	159'.9
 U+2E779	kRSUnicode	159'.13
 U+2E77A	kRSUnicode	159'.13
+````
+
 
 ### 钅
+````
 U+2E8F2	kRSUnicode	167'.3
 U+2E8F3	kRSUnicode	167'.4
 U+2E8F4	kRSUnicode	167'.7
 U+2E8F5	kRSUnicode	167'.8
 U+2E8F6	kRSUnicode	167'.10
 U+2E8F7	kRSUnicode	167'.13
+````
+
 
 ### 门
+````
 U+2E92B	kRSUnicode	169'.2
 U+2E92C	kRSUnicode	169'.3
 U+2E92D	kRSUnicode	169'.3
@@ -2738,32 +3087,50 @@ U+2E935	kRSUnicode	169'.8
 U+2E936	kRSUnicode	169'.8
 U+2E937	kRSUnicode	169'.9
 U+2E938	kRSUnicode	169'.12
+````
+
 
 ### 韦
+````
 U+2E9F4	kRSUnicode	178'.4
 U+2E9F5	kRSUnicode	178'.6
+````
+
 
 ### 风
+````
 U+2EA34	kRSUnicode	182'.8
 U+2EA35	kRSUnicode	182'.11
+````
+
 
 ### 飞
+````
 U+2EA36	kRSUnicode	183'.5
+````
+
 
 ### 饣
+````
 U+2EA5B	kRSUnicode	184'.6
 U+2EA5C	kRSUnicode	184'.6
 U+2EA5D	kRSUnicode	184'.9
 U+2EA5E	kRSUnicode	184'.12
+````
+
 
 ### 马
+````
 U+2EAA1	kRSUnicode	187'.7
 U+2EAA2	kRSUnicode	187'.7
 U+2EAA3	kRSUnicode	187'.9
 U+2EAA4	kRSUnicode	187'.10
 U+2EAA5	kRSUnicode	187'.12
+````
+
 
 ### 鱼
+````
 U+2EB1B	kRSUnicode	195'.4
 U+2EB1C	kRSUnicode	195'.6
 U+2EB1D	kRSUnicode	195'.6
@@ -2774,8 +3141,11 @@ U+2EB21	kRSUnicode	195'.10
 U+2EB22	kRSUnicode	195'.10
 U+2EB23	kRSUnicode	195'.11
 U+2EB24	kRSUnicode	195'.15
+````
+
 
 ### 鸟
+````
 U+2EB61	kRSUnicode	196'.4
 U+2EB62	kRSUnicode	196'.4
 U+2EB63	kRSUnicode	196'.4
@@ -2786,26 +3156,41 @@ U+2EB67	kRSUnicode	196'.7
 U+2EB68	kRSUnicode	196'.10
 U+2EB69	kRSUnicode	196'.10
 U+2EB6A	kRSUnicode	196'.11
+````
+
 
 ### 卤
+````
 U+2EB70	kRSUnicode	197'.4
+````
+
 
 ### 麦
+````
 U+2EB83	kRSUnicode	199'.2
 U+2EB84	kRSUnicode	199'.4
 U+2EB85	kRSUnicode	199'.4
 U+2EB86	kRSUnicode	199'.5
 U+2EB87	kRSUnicode	199'.6
+````
+
 
 ### 齿
+````
 U+2EBD9	kRSUnicode	211'.5
+````
+
 
 ## 擴展區 G
 ### 丬
+````
 U+30817	kRSUnicode	90'.3
 U+30818	kRSUnicode	90'.9
+````
+
 
 ### 纟
+````
 U+30AFC	kRSUnicode	120'.2
 U+30AFD	kRSUnicode	120'.4
 U+30AFE	kRSUnicode	120'.4
@@ -2876,8 +3261,11 @@ U+30B3E	kRSUnicode	120'.13
 U+30B3F	kRSUnicode	120'.14
 U+30B40	kRSUnicode	120'.15
 U+30B41	kRSUnicode	120'.15
+````
+
 
 ### 见
+````
 U+30D15	kRSUnicode	147'.5
 U+30D16	kRSUnicode	147'.5
 U+30D17	kRSUnicode	147'.7
@@ -2888,8 +3276,11 @@ U+30D1B	kRSUnicode	147'.10
 U+30D1C	kRSUnicode	147'.11
 U+30D1D	kRSUnicode	147'.12
 U+30D1E	kRSUnicode	147'.13
+````
+
 
 ### 讠
+````
 U+30D4A	kRSUnicode	149'.2
 U+30D4B	kRSUnicode	149'.3
 U+30D4C	kRSUnicode	149'.3
@@ -2960,8 +3351,11 @@ U+30D8C	kRSUnicode	149'.14
 U+30D8D	kRSUnicode	149'.14
 U+30D8E	kRSUnicode	149'.14
 U+30D8F	kRSUnicode	149'.17
+````
+
 
 ### 贝
+````
 U+30DDE	kRSUnicode	154'.3
 U+30DDF	kRSUnicode	154'.3
 U+30DE0	kRSUnicode	154'.3
@@ -2979,8 +3373,11 @@ U+30DEB	kRSUnicode	154'.12
 U+30DEC	kRSUnicode	154'.13
 U+30DED	kRSUnicode	154'.14
 U+30DEE	kRSUnicode	154'.16
+````
+
 
 ### 车
+````
 U+30E6F	kRSUnicode	159'.1
 U+30E70	kRSUnicode	159'.2
 U+30E71	kRSUnicode	159'.2
@@ -3035,8 +3432,11 @@ U+30EA1	kRSUnicode	159'.14
 U+30EA2	kRSUnicode	159'.15
 U+30EA3	kRSUnicode	159'.15
 U+30EA4	kRSUnicode	159'.15
+````
+
 
 ### 钅
+````
 U+30F55	kRSUnicode	167'.2
 U+30F56	kRSUnicode	167'.2
 U+30F57	kRSUnicode	167'.3
@@ -3155,11 +3555,17 @@ U+30FC7	kRSUnicode	167'.16
 U+30FC8	kRSUnicode	167'.17
 U+30FC9	kRSUnicode	167'.18
 U+30FCA	kRSUnicode	167'.19
+````
+
 
 ### 长
+````
 U+30FD6	kRSUnicode	168'.4
+````
+
 
 ### 门
+````
 U+30FE5	kRSUnicode	169'.1
 U+30FE6	kRSUnicode	169'.2
 U+30FE7	kRSUnicode	169'.3
@@ -3188,8 +3594,11 @@ U+30FFD	kRSUnicode	169'.13
 U+30FFE	kRSUnicode	169'.13
 U+30FFF	kRSUnicode	169'.14
 U+31000	kRSUnicode	169'.14
+````
+
 
 ### 韦
+````
 U+31083	kRSUnicode	178'.4
 U+31084	kRSUnicode	178'.5
 U+31085	kRSUnicode	178'.5
@@ -3200,8 +3609,11 @@ U+31089	kRSUnicode	178'.7
 U+3108A	kRSUnicode	178'.9
 U+3108B	kRSUnicode	178'.13
 U+3108C	kRSUnicode	178'.14
+````
+
 
 ### 页
+````
 U+310A0	kRSUnicode	181'.3
 U+310A1	kRSUnicode	181'.4
 U+310A2	kRSUnicode	181'.5
@@ -3230,8 +3642,11 @@ U+310B8	kRSUnicode	181'.10
 U+310B9	kRSUnicode	181'.10
 U+310BA	kRSUnicode	181'.11
 U+310BB	kRSUnicode	181'.12
+````
+
 
 ### 风
+````
 U+310D4	kRSUnicode	182'.3
 U+310D5	kRSUnicode	182'.4
 U+310D6	kRSUnicode	182'.5
@@ -3245,8 +3660,11 @@ U+310DD	kRSUnicode	182'.8
 U+310DE	kRSUnicode	182'.9
 U+310DF	kRSUnicode	182'.11
 U+310E0	kRSUnicode	182'.12
+````
+
 
 ### 饣
+````
 U+310F1	kRSUnicode	184'.3
 U+310F2	kRSUnicode	184'.4
 U+310F3	kRSUnicode	184'.4
@@ -3273,8 +3691,11 @@ U+31107	kRSUnicode	184'.12
 U+31108	kRSUnicode	184'.14
 U+31109	kRSUnicode	184'.14
 U+3110A	kRSUnicode	184'.16
+````
+
 
 ### 马
+````
 U+3113C	kRSUnicode	187'.3
 U+3113D	kRSUnicode	187'.3
 U+3113E	kRSUnicode	187'.3
@@ -3324,8 +3745,11 @@ U+31169	kRSUnicode	187'.11
 U+3116A	kRSUnicode	187'.12
 U+3116B	kRSUnicode	187'.12
 U+3116C	kRSUnicode	187'.16
+````
+
 
 ### 鱼
+````
 U+311CD	kRSUnicode	195'.1
 U+311CE	kRSUnicode	195'.2
 U+311CF	kRSUnicode	195'.3
@@ -3406,8 +3830,11 @@ U+31219	kRSUnicode	195'.15
 U+3121A	kRSUnicode	195'.16
 U+3121B	kRSUnicode	195'.16
 U+3121C	kRSUnicode	195'.16
+````
+
 
 ### 鸟
+````
 U+31247	kRSUnicode	196'.1
 U+31248	kRSUnicode	196'.2
 U+31249	kRSUnicode	196'.2
@@ -3519,14 +3946,20 @@ U+312B2	kRSUnicode	196'.15
 U+312B3	kRSUnicode	196'.15
 U+312B4	kRSUnicode	196'.16
 U+312B5	kRSUnicode	196'.17
+````
+
 
 ### 卤
+````
 U+312BA	kRSUnicode	197'.3
 U+312BB	kRSUnicode	197'.7
 U+312BC	kRSUnicode	197'.12
 U+312BD	kRSUnicode	197'.16
+````
+
 
 ### 麦
+````
 U+312C4	kRSUnicode	199'.2
 U+312C5	kRSUnicode	199'.2
 U+312C6	kRSUnicode	199'.3
@@ -3570,8 +4003,11 @@ U+312EB	kRSUnicode	199'.12
 U+312EC	kRSUnicode	199'.12
 U+312ED	kRSUnicode	199'.14
 U+312EE	kRSUnicode	199'.14
+````
+
 
 ### 黾
+````
 U+312FE	kRSUnicode	205'.5
 U+312FF	kRSUnicode	205'.5
 U+31300	kRSUnicode	205'.5
@@ -3584,13 +4020,19 @@ U+31306	kRSUnicode	205'.10
 U+31307	kRSUnicode	205'.11
 U+31308	kRSUnicode	205'.11
 U+31309	kRSUnicode	205'.13
+````
+
 
 ### 齐
+````
 U+31317	kRSUnicode	210'.4
 U+31318	kRSUnicode	210'.5
 U+31319	kRSUnicode	210'.6
+````
+
 
 ### 齿
+````
 U+31329	kRSUnicode	211'.3
 U+3132A	kRSUnicode	211'.4
 U+3132B	kRSUnicode	211'.5
@@ -3612,15 +4054,23 @@ U+3133A	kRSUnicode	211'.10
 U+3133B	kRSUnicode	211'.10
 U+3133C	kRSUnicode	211'.10
 U+3133D	kRSUnicode	211'.10
+````
+
 
 ### 龙
+````
 U+31341	kRSUnicode	212'.3
 U+31342	kRSUnicode	212'.5
+````
+
 
 ### 龟
+````
 U+31343	kRSUnicode	213'.3
 U+31344	kRSUnicode	213'.4
 U+31345	kRSUnicode	213'.4
 U+31346	kRSUnicode	213'.4
 U+31347	kRSUnicode	213'.5
 U+31348	kRSUnicode	213'.11
+````
+
