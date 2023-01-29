@@ -480,12 +480,6 @@ U+8F9A	kRSUnicode	159'.12
 ````
 
 
-### 辶
-````
-U+8FB6	kRSUnicode	162'.0
-````
-
-
 ### 钅
 ````
 U+9485	kRSUnicode	167'.0
