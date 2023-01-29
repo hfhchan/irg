@@ -1,4 +1,4 @@
-# List of Simplified Characters in Unicode 13.0
+# List of Simplified Characters in Unicode 15.0
 
 ## 基本區
 ### 丬
@@ -1219,6 +1219,12 @@ U+9EBA	kRSUnicode	199'.9
 ````
 
 
+### 黄
+````
+U+9EC4	kRSUnicode	201'.0
+````
+
+
 ### 黾
 ````
 U+9EFE	kRSUnicode	205'.0
@@ -2272,7 +2278,6 @@ U+2B817	kRSUnicode	197'.8
 
 ### 齿
 ````
-U+2B81A	kRSUnicode	211'.5
 U+2B81C	kRSUnicode	211'.8
 ````
 
@@ -2713,7 +2718,7 @@ U+2CC84	kRSUnicode	182'.10
 U+2CC85	kRSUnicode	182'.12
 U+2CC86	kRSUnicode	182'.12
 U+2CC87	kRSUnicode	182'.13
-U+2CC88	kRSUnicode	182'.13
+U+2CC88	kRSUnicode	182'.16
 ````
 
 
@@ -4072,5 +4077,367 @@ U+31345	kRSUnicode	213'.4
 U+31346	kRSUnicode	213'.4
 U+31347	kRSUnicode	213'.5
 U+31348	kRSUnicode	213'.11
+````
+
+
+## 擴展區 H
+### 丬
+````
+U+31B57	kRSUnicode	90'.7
+U+31B58	kRSUnicode	90'.8
+````
+
+
+### 纟
+````
+U+31E8F	kRSUnicode	120'.2
+U+31E90	kRSUnicode	120'.2
+U+31E91	kRSUnicode	120'.2
+U+31E92	kRSUnicode	120'.3
+U+31E93	kRSUnicode	120'.4
+U+31E94	kRSUnicode	120'.5
+U+31E95	kRSUnicode	120'.5
+U+31E96	kRSUnicode	120'.5
+U+31E97	kRSUnicode	120'.5
+U+31E98	kRSUnicode	120'.5
+U+31E99	kRSUnicode	120'.5
+U+31E9A	kRSUnicode	120'.6
+U+31E9B	kRSUnicode	120'.6
+U+31E9C	kRSUnicode	120'.7
+U+31E9D	kRSUnicode	120'.7
+U+31E9E	kRSUnicode	120'.7
+U+31E9F	kRSUnicode	120'.7
+U+31EA0	kRSUnicode	120'.7
+U+31EA1	kRSUnicode	120'.7
+U+31EA2	kRSUnicode	120'.7
+U+31EA3	kRSUnicode	120'.8
+U+31EA4	kRSUnicode	120'.8
+U+31EA5	kRSUnicode	120'.8
+U+31EA6	kRSUnicode	120'.9
+U+31EA7	kRSUnicode	120'.9
+U+31EA8	kRSUnicode	120'.9
+U+31EA9	kRSUnicode	120'.9
+U+31EAA	kRSUnicode	120'.11
+U+31EAB	kRSUnicode	120'.11
+U+31EAC	kRSUnicode	120'.12
+U+31EAD	kRSUnicode	120'.13
+U+31EAE	kRSUnicode	120'.14
+U+31EAF	kRSUnicode	120'.15
+U+31EB0	kRSUnicode	120'.22
+````
+
+
+### 见
+````
+U+32051	kRSUnicode	147'.4
+U+32052	kRSUnicode	147'.4
+U+32053	kRSUnicode	147'.4
+U+32054	kRSUnicode	147'.5
+U+32055	kRSUnicode	147'.6
+U+32056	kRSUnicode	147'.6
+U+32057	kRSUnicode	147'.9
+U+32058	kRSUnicode	147'.9
+U+32059	kRSUnicode	147'.10
+````
+
+
+### 讠
+````
+U+32082	kRSUnicode	149'.3
+U+32083	kRSUnicode	149'.3
+U+32084	kRSUnicode	149'.4
+U+32085	kRSUnicode	149'.4
+U+32086	kRSUnicode	149'.5
+U+32087	kRSUnicode	149'.5
+U+32088	kRSUnicode	149'.6
+U+32089	kRSUnicode	149'.6
+U+3208A	kRSUnicode	149'.6
+U+3208B	kRSUnicode	149'.7
+U+3208C	kRSUnicode	149'.7
+U+3208D	kRSUnicode	149'.7
+U+3208E	kRSUnicode	149'.8
+U+3208F	kRSUnicode	149'.8
+U+32090	kRSUnicode	149'.9
+U+32091	kRSUnicode	149'.9
+U+32092	kRSUnicode	149'.9
+U+32093	kRSUnicode	149'.11
+U+32094	kRSUnicode	149'.11
+U+32095	kRSUnicode	149'.13
+U+32096	kRSUnicode	149'.13
+U+32097	kRSUnicode	149'.15
+````
+
+
+### 贝
+````
+U+320BA	kRSUnicode	154'.3
+U+320BB	kRSUnicode	154'.4
+U+320BC	kRSUnicode	154'.4
+U+320BD	kRSUnicode	154'.4
+U+320BE	kRSUnicode	154'.5
+U+320BF	kRSUnicode	154'.5
+U+320C0	kRSUnicode	154'.5
+U+320C1	kRSUnicode	154'.5
+U+320C2	kRSUnicode	154'.8
+U+320C3	kRSUnicode	154'.8
+U+320C4	kRSUnicode	154'.9
+U+320C5	kRSUnicode	154'.9
+U+320C6	kRSUnicode	154'.10
+````
+
+
+### 车
+````
+U+32140	kRSUnicode	159'.4
+U+32141	kRSUnicode	159'.4
+U+32142	kRSUnicode	159'.7
+U+32143	kRSUnicode	159'.24
+````
+
+
+### 钅
+````
+U+321ED	kRSUnicode	167'.3
+U+321EE	kRSUnicode	167'.3
+U+321EF	kRSUnicode	167'.3
+U+321F0	kRSUnicode	167'.3
+U+321F1	kRSUnicode	167'.4
+U+321F2	kRSUnicode	167'.4
+U+321F3	kRSUnicode	167'.4
+U+321F4	kRSUnicode	167'.4
+U+321F5	kRSUnicode	167'.4
+U+321F6	kRSUnicode	167'.4
+U+321F7	kRSUnicode	167'.5
+U+321F8	kRSUnicode	167'.5
+U+321F9	kRSUnicode	167'.6
+U+321FA	kRSUnicode	167'.6
+U+321FB	kRSUnicode	167'.6
+U+321FC	kRSUnicode	167'.6
+U+321FD	kRSUnicode	167'.7
+U+321FE	kRSUnicode	167'.7
+U+321FF	kRSUnicode	167'.7
+U+32200	kRSUnicode	167'.7
+U+32201	kRSUnicode	167'.8
+U+32202	kRSUnicode	167'.8
+U+32203	kRSUnicode	167'.8
+U+32204	kRSUnicode	167'.8
+U+32205	kRSUnicode	167'.8
+U+32206	kRSUnicode	167'.8
+U+32207	kRSUnicode	167'.8
+U+32208	kRSUnicode	167'.8
+U+32209	kRSUnicode	167'.8
+U+3220A	kRSUnicode	167'.8
+U+3220B	kRSUnicode	167'.9
+U+3220C	kRSUnicode	167'.9
+U+3220D	kRSUnicode	167'.9
+U+3220E	kRSUnicode	167'.9
+U+3220F	kRSUnicode	167'.9
+U+32210	kRSUnicode	167'.9
+U+32211	kRSUnicode	167'.9
+U+32212	kRSUnicode	167'.10
+U+32213	kRSUnicode	167'.10
+U+32214	kRSUnicode	167'.10
+U+32215	kRSUnicode	167'.11
+U+32216	kRSUnicode	167'.11
+U+32217	kRSUnicode	167'.11
+U+32218	kRSUnicode	167'.11
+U+32219	kRSUnicode	167'.12
+U+3221A	kRSUnicode	167'.12
+U+3221B	kRSUnicode	167'.12
+U+3221C	kRSUnicode	167'.12
+U+3221D	kRSUnicode	167'.13
+U+3221E	kRSUnicode	167'.13
+U+3221F	kRSUnicode	167'.16
+U+32220	kRSUnicode	167'.16
+U+32221	kRSUnicode	167'.18
+````
+
+
+### 长
+````
+U+32224	kRSUnicode	168'.3
+U+32225	kRSUnicode	168'.6
+````
+
+
+### 门
+````
+U+32235	kRSUnicode	169'.4
+U+32236	kRSUnicode	169'.4
+U+32237	kRSUnicode	169'.4
+U+32238	kRSUnicode	169'.4
+U+32239	kRSUnicode	169'.6
+U+3223A	kRSUnicode	169'.6
+U+3223B	kRSUnicode	169'.6
+U+3223C	kRSUnicode	169'.6
+U+3223D	kRSUnicode	169'.7
+U+3223E	kRSUnicode	169'.7
+U+3223F	kRSUnicode	169'.7
+U+32240	kRSUnicode	169'.8
+U+32241	kRSUnicode	169'.9
+U+32242	kRSUnicode	169'.9
+U+32243	kRSUnicode	169'.9
+U+32244	kRSUnicode	169'.10
+U+32245	kRSUnicode	169'.10
+U+32246	kRSUnicode	169'.11
+U+32247	kRSUnicode	169'.13
+U+32248	kRSUnicode	169'.14
+````
+
+
+### 韦
+````
+U+322A5	kRSUnicode	178'.5
+````
+
+
+### 页
+````
+U+322B9	kRSUnicode	181'.3
+U+322BA	kRSUnicode	181'.5
+U+322BB	kRSUnicode	181'.5
+U+322BC	kRSUnicode	181'.7
+U+322BD	kRSUnicode	181'.7
+U+322BE	kRSUnicode	181'.9
+U+322BF	kRSUnicode	181'.9
+U+322C0	kRSUnicode	181'.9
+U+322C1	kRSUnicode	181'.10
+U+322C2	kRSUnicode	181'.12
+U+322C3	kRSUnicode	181'.13
+````
+
+
+### 风
+````
+U+322CE	kRSUnicode	182'.4
+U+322CF	kRSUnicode	182'.4
+U+322D0	kRSUnicode	182'.5
+U+322D1	kRSUnicode	182'.8
+````
+
+
+### 飞
+````
+U+322D3	kRSUnicode	183'.10
+````
+
+
+### 饣
+````
+U+322E2	kRSUnicode	184'.4
+U+322E3	kRSUnicode	184'.5
+U+322E4	kRSUnicode	184'.5
+U+322E5	kRSUnicode	184'.6
+U+322E6	kRSUnicode	184'.8
+U+322E7	kRSUnicode	184'.8
+U+322E8	kRSUnicode	184'.9
+U+322E9	kRSUnicode	184'.10
+U+322EA	kRSUnicode	184'.10
+U+322EB	kRSUnicode	184'.10
+U+322EC	kRSUnicode	184'.11
+````
+
+
+### 马
+````
+U+32304	kRSUnicode	187'.2
+U+32305	kRSUnicode	187'.5
+U+32306	kRSUnicode	187'.7
+U+32307	kRSUnicode	187'.8
+U+32308	kRSUnicode	187'.8
+U+32309	kRSUnicode	187'.8
+U+3230A	kRSUnicode	187'.12
+U+3230B	kRSUnicode	187'.12
+````
+
+
+### 鱼
+````
+U+32346	kRSUnicode	195'.2
+U+32347	kRSUnicode	195'.3
+U+32348	kRSUnicode	195'.3
+U+32349	kRSUnicode	195'.4
+U+3234A	kRSUnicode	195'.4
+U+3234B	kRSUnicode	195'.4
+U+3234C	kRSUnicode	195'.5
+U+3234D	kRSUnicode	195'.5
+U+3234E	kRSUnicode	195'.6
+U+3234F	kRSUnicode	195'.6
+U+32350	kRSUnicode	195'.6
+U+32351	kRSUnicode	195'.6
+U+32352	kRSUnicode	195'.7
+U+32353	kRSUnicode	195'.7
+U+32354	kRSUnicode	195'.7
+U+32355	kRSUnicode	195'.8
+U+32356	kRSUnicode	195'.9
+U+32357	kRSUnicode	195'.9
+U+32358	kRSUnicode	195'.11
+U+32359	kRSUnicode	195'.12
+````
+
+
+### 鸟
+````
+U+3236B	kRSUnicode	196'.3
+U+3236C	kRSUnicode	196'.3
+U+3236D	kRSUnicode	196'.4
+U+3236E	kRSUnicode	196'.4
+U+3236F	kRSUnicode	196'.5
+U+32370	kRSUnicode	196'.5
+U+32371	kRSUnicode	196'.5
+U+32372	kRSUnicode	196'.5
+U+32373	kRSUnicode	196'.6
+U+32374	kRSUnicode	196'.6
+U+32375	kRSUnicode	196'.6
+U+32376	kRSUnicode	196'.6
+U+32377	kRSUnicode	196'.7
+U+32378	kRSUnicode	196'.7
+U+32379	kRSUnicode	196'.7
+U+3237A	kRSUnicode	196'.7
+U+3237B	kRSUnicode	196'.7
+U+3237C	kRSUnicode	196'.7
+U+3237D	kRSUnicode	196'.8
+U+3237E	kRSUnicode	196'.8
+U+3237F	kRSUnicode	196'.8
+U+32380	kRSUnicode	196'.9
+U+32381	kRSUnicode	196'.10
+U+32382	kRSUnicode	196'.10
+U+32383	kRSUnicode	196'.11
+U+32384	kRSUnicode	196'.11
+U+32385	kRSUnicode	196'.12
+U+32386	kRSUnicode	196'.12
+U+32387	kRSUnicode	196'.13
+U+32388	kRSUnicode	196'.14
+U+32389	kRSUnicode	196'.16
+````
+
+
+### 卤
+````
+U+3238A	kRSUnicode	197'.6
+````
+
+
+### 麦
+````
+U+32391	kRSUnicode	199'.8
+U+32392	kRSUnicode	199'.8
+U+32393	kRSUnicode	199'.11
+````
+
+
+### 齿
+````
+U+323A7	kRSUnicode	211'.4
+U+323A8	kRSUnicode	211'.6
+U+323A9	kRSUnicode	211'.8
+U+323AA	kRSUnicode	211'.12
+U+323AB	kRSUnicode	211'.16
+````
+
+
+### 龟
+````
+U+323AE	kRSUnicode	213'.4
 ````
 
