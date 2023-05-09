@@ -155,13 +155,13 @@
 #亦 simp 䜌
 
 # Simp (Concrete Examples)
-# Format: Destination / Classification / Source
-則 simp 则
-勞 simp 劳
-貧 simp 贫
-貫 simp 贯
-瑩 simp 莹
-貞 simp 贞
+# Format: Source / Classification / Destination
+则 simp 則
+劳 simp 勞
+贫 simp 貧
+贯 simp 貫
+莹 simp 瑩
+贞 simp 貞
 览 simp 覽
 揽 simp 攬
 缆 simp 纜
@@ -175,7 +175,7 @@
 紧 simp 緊
 铿 simp 鏗
 鲣 simp 鰹
-藍 simp 蓝
+蓝 simp 藍
 
 # Simp (Non-standard and/or Japanese)
 # Format: Destination / Classification / Source
